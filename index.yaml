@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pern-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-13T16:09:35.142760351+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 35af34dac0ca0007cefa457989ebf8518155c3e7b90bb685e7b58f172d0bc315
+    name: pern-helm
+    type: application
+    urls:
+    - https://aldinkapetanovic.github.io/pern-app/pern-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-13T16:09:35.142213823+01:00"
